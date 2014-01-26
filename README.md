@@ -1,7 +1,5 @@
-K8055/VM110N
+K8055/VM110N on my Mac and code in Java
 =====
-
-Code base to control a Velleman K8055/VM110N from my Mac
 
 After spending some time looking at the various (old) projects available on the net, I realized that none of them is doing what I need: be able to control my Velleman K8055/VM110N from my Mac. Thus I decided to write my own interface based on several findings.
 
