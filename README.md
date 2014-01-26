@@ -11,5 +11,5 @@ After spending some time looking at the various (old) projects available on the 
 
 If you do not want to take care of the CPP part, I commited [libk8055.dylib](java/lib/libk8055.dylib) file. Thus once the project is cloned, just complile the java part and run `java -Djava.library.path="../lib" com.alex.k8055.Tester`. You should be ready to implement you own Java code on top of the library.
 
-Note: the code is a really first just, I will clean it up when I will write the web part of my project (control my K8055/VM110N from a web page). Expect some changes but when... ? ;)
+Note: the code is a really first shot, I will clean it up when I will write the web part of my project (control my K8055/VM110N from a web page). Expect some changes but when... ? ;)
 
